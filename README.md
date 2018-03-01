@@ -19,16 +19,18 @@ struct nodo{
 int c;
 nodo*sgte;
 };
+
+//EJERCICIO 3
 void leerNumero(FILE*f,int&c,nodo*pila){
     f=fopen("archivodesuma.bin","rb+");
 while(fc=getch(f) && f!=EOF(f){
       push(pila,c);
       return;
-
       }
 };
 //EJERCICIO 5
 nodo*SumarColaPila(nodo*&pila,nodo*&fte,nodo*fin){
+while(pila1!=NULL && pila2!=NULL){
 
 }
 int main()
